@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace card
@@ -14,11 +15,37 @@ namespace card
                            "\n#";
             string[] decks = input.Split('#')[0].Split('\n');
             foreach (string deck in decks)
-            {Console.WriteLine(deck);
-              }
+            {
 
-            Console.ReadLine();
-            
+                string[] cards = deck.Split(' ');
+                int exposedCards = 0;
+                string lastExposedCard = "";
+                int index = 0;
+
+
+                for (int i = 12; i >= 0; i--)
+                {
+                    if (i <= cards.Length)
+                    {
+                        if (i + exposedCards >= 12)
+                        {
+                            lastExposedCard = cards[i];
+                            index = Array.IndexOf(cards, lastExposedCard);
+                            Console.WriteLine($"{index:D2},{lastExposedCard}");
+                            Console.ReadLine();
+
+                        }
+                       
+
+
+
+
+                    }
+                }
+
+                
+            }
+
         }
-    }
+        }
 }

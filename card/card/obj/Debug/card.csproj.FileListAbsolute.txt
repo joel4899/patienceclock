@@ -6,3 +6,11 @@ C:\Users\joel\Downloads\card\card\obj\Debug\card.csproj.SuggestedBindingRedirect
 C:\Users\joel\Downloads\card\card\obj\Debug\card.csproj.CoreCompileInputs.cache
 C:\Users\joel\Downloads\card\card\obj\Debug\card.exe
 C:\Users\joel\Downloads\card\card\obj\Debug\card.pdb
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\bin\Debug\card.exe.config
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\bin\Debug\card.exe
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\bin\Debug\card.pdb
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\obj\Debug\card.csproj.AssemblyReference.cache
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\obj\Debug\card.csproj.SuggestedBindingRedirects.cache
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\obj\Debug\card.csproj.CoreCompileInputs.cache
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\obj\Debug\card.exe
+C:\Users\joel\Documents\GitHub\patienceclock\card\card\obj\Debug\card.pdb
